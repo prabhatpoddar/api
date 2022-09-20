@@ -1,12 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-
-  ],
+  "posts": [],
   "comments": [
     {
       "id": 1,
