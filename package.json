@@ -1,16 +1,24 @@
 {
   "name": "crud1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "heroku": "^7.63.4",
     "json-server": "^0.17.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhatpoddar/api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prabhatpoddar/api/issues"
+  },
+  "homepage": "https://github.com/prabhatpoddar/api#readme",
+  "description": ""
 }
